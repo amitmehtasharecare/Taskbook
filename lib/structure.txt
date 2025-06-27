@@ -1,0 +1,12 @@
+// Data Layer
+// - models/
+// - datasources/
+// - repositories/
+// Domain Layer
+// - entities/
+// - repositories/
+// - usecases/
+// Presentation Layer
+// - bloc/
+// - screens/
+// - widgets/
